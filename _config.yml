@@ -32,8 +32,8 @@ author: Fang Han
 # Build settings
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-# plugins:
-#   - jekyll-feed
+plugins:
+- jekyll-remote-theme
 
 # "air", "aqua", "contrast", "dark", 
 # "dirt", "neon", "mint", "plum", "sunrise"
