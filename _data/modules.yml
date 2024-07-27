@@ -1,0 +1,6 @@
+- name: pymatcal
+- name: pydetgen
+- name: pyrecon
+- name: mcsim
+- name: pymatana
+- name: pydigiphan
