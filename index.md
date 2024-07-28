@@ -2,12 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: single
-# classes: wide
-toc: true
-toc_sticky: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
+layout: default
+title: Home
 ---
 # Introduction
 

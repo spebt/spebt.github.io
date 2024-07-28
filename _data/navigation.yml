@@ -1,9 +1,11 @@
-main:
-  - title: "Get Started"
-    url: get-started
+- name: "Home"
+  link: /
 
-  - title: "Modules"
-    url: modules
+- name: "Get Started"
+  link: /get-started/
 
-  - title: "About"
-    url: about
+- name: "Modules"
+  link: /modules/
+
+- name: "About"
+  link: /about/

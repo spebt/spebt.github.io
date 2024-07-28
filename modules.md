@@ -1,10 +1,17 @@
 ---
 title: Modules
-layout: splash
+layout: default
+permalink: /modules/
 ---
-
 # Modules:
-<table id="module-list">
+
+{% for module in site.data.modules %}
+- ## {{module.name}}
+  - [GitHub Repository](https://github.com/spebt/{{module.name}})
+  - [Documentation](https://spebt.github.io/{{module.name}})
+{% endfor %}
+
+<!-- <table id="module-list">
   <tr>
     <th>Module Name</th>
     <th></th>
@@ -12,9 +19,9 @@ layout: splash
   </tr>
 {% for module in site.data.modules %}
 <tr>
-<td><b>{{module.name }}</b></td>
+<td><h2>{{module.name }}</h2></td>
 <td><a href="https://github.com/spebt/{{module.name}}">GitHub Repo</a></td>
 <td><a href="https://spebt.github.io/{{module.name}}">Documentation</a></td>
 </tr>
 {% endfor %}
-</table>
+</table> -->
