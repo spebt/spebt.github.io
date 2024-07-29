@@ -3,12 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Home
+title: ""
 ---
-# Introduction
+## Introduction
 
 SPEBT project aims at the design, evaluation and optimization of new Single Photon Emission Tomography System. The analytical modelling and Monte Carlo simulation rely heavily on the use of the [High Performace Computer (HPC) compute cluster](https://docs.ccr.buffalo.edu/en/latest/hpc/clusters/#ub-hpc-compute-cluster) at the State University of New York (SUNY) at Buffalo.
 
-# Quick Start
+## Quick Start
 
 Check out [Get Started](/get-started)
