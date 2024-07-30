@@ -3,6 +3,10 @@ title: Modules
 layout: default
 permalink: /modules/
 ---
+- The modules' codes are hosted on GitHub. 
+- You can click the links bellow to check them out on the GitHub.
+- You can also take a look at the simple documentation of each module.
+
 # Modules:
 
 {% for module in site.data.modules %}
