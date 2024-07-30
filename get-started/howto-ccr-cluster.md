@@ -58,4 +58,4 @@ salloc --qos=nih --partition=general-compute --job-name "interactive-compute" --
 ```
 
 #### Continue to setup Python environment on cluster nodes
-Check out [How to setup Python on CCR cluster](/get-started/howto-ccr-setup-python/)
+Check out [How to setup Python on CCR cluster](/get-started/howto-ccr-setup-python)
