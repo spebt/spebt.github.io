@@ -1,5 +1,5 @@
-# Instuction for start-ups
-
+# Instruction for beginners
+Author: Jiahao Bao, Fang Han
 
 Here is how to start your jouney in SPEBT project. I'll offer you a step by step instruction on how to understand and use our python codes. [SPEBT](https://github.com/spebt) is our github website, and [spbet.github.io](https://spebt.github.io) is our project website.
 
