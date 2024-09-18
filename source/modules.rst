@@ -1,4 +1,6 @@
-# Modules
+=======
+Modules
+=======
 
 - The modules' codes are hosted on GitHub. 
 - You can click the links bellow to check them out on the GitHub.

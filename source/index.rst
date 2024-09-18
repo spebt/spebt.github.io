@@ -2,7 +2,8 @@
    sphinx-quickstart on Tue Sep 17 14:49:57 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-
+   
+===================
 SPEBT documentation
 ===================
 The SPEBT project aims at the design, evaluation and optimization of new Single Photon Emission Tomography System. 
@@ -15,7 +16,6 @@ The SPEBT project aims at the design, evaluation and optimization of new Single 
       :link: quickstart.html
       :class-card: sd-rounded-3, sd-border-3
       :class-body: sd-text-center, sd-fs-1, sd-d-flex-column, sd-align-major-center, sd-font-weight-bolder
-                   sd-text-primary
 
       Quick Start
 

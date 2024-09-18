@@ -15,7 +15,22 @@ release = "version 2024.09.18"
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = ["myst_parser","sphinx_design"]
-myst_enable_extensions = ["colon_fence"]
+myst_enable_extensions = [
+    "amsmath",
+    "attrs_inline",
+    "colon_fence",
+    "deflist",
+    "dollarmath",
+    "fieldlist",
+    "html_admonition",
+    "html_image",
+    # "linkify",
+    "replacements",
+    "smartquotes",
+    "strikethrough",
+    "substitution",
+    "tasklist",
+]
 
 templates_path = ["_templates"]
 exclude_patterns = []
