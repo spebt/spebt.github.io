@@ -9,7 +9,7 @@
    id="svg1"
    inkscape:version="1.3.2 (1:1.3.2+202404261509+091e20ef0f)"
    sodipodi:docname="drawing.svg"
-   inkscape:export-filename="logo.png"
+   inkscape:export-filename="logo-dark.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,21 +29,22 @@
      showgrid="false"
      inkscape:clip-to-page="false"
      inkscape:zoom="7.45625"
-     inkscape:cx="110.98072"
+     inkscape:cx="102.66555"
      inkscape:cy="50.092205"
-     inkscape:window-width="1275"
-     inkscape:window-height="1396"
+     inkscape:window-width="2552"
+     inkscape:window-height="1398"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4"
+     inkscape:current-layer="layer2"
      inkscape:export-bgcolor="#ffffff00" />
   <defs
      id="defs1" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:none">
     <g
        id="g3"
        transform="translate(0.19045343,-0.13229112)">
@@ -52,13 +53,13 @@
          transform="translate(-0.05816181)">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#0010ff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#005bbb;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
            x="22.33436"
            y="15.41605"
            id="text1"><tspan
              sodipodi:role="line"
              id="tspan1"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Bold Italic';letter-spacing:0px;fill:#0010ff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Bold Italic';letter-spacing:0px;fill:#005bbb;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
              x="22.33436"
              y="15.41605"
              rotate="0 0 0 0 0 0"
@@ -66,21 +67,57 @@
              dx="0">SPEBT</tspan></text>
         <path
            sodipodi:type="star"
-           style="fill:#ffd503;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           style="fill:#ffc72c;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
            id="path3"
            inkscape:flatsided="false"
            sodipodi:sides="6"
-           sodipodi:cx="20.642296"
-           sodipodi:cy="-2.4429047"
-           sodipodi:r1="6.1592245"
-           sodipodi:r2="1.2613688"
-           sodipodi:arg1="-0.15028983"
-           sodipodi:arg2="0.30652732"
-           inkscape:rounded="0"
+           sodipodi:cx="22.328213"
+           sodipodi:cy="-2.5887597"
+           sodipodi:r1="5.7264705"
+           sodipodi:r2="1.3751936"
+           sodipodi:arg1="0.29663544"
+           sodipodi:arg2="0.89086531"
+           inkscape:rounded="0.1923499"
            inkscape:randomized="0"
-           d="m 26.732092,-3.3650928 -4.887223,1.3028057 2.640963,4.4322064 -3.571874,-3.5810566 -2.517922,4.5032447 1.315349,-4.8838623 -5.158885,0.071038 4.887223,-1.3028056 -2.640963,-4.4322065 3.571874,3.5810567 2.517922,-4.5032447 -1.315349,4.8838623 z"
-           transform="translate(11.896262,8.3747699)" />
+           d="m 27.804582,-0.91488799 c -0.321243,0.83499038 -3.957466,-1.21469841 -4.611731,-0.60449901 -0.637235,0.59431686 1.284673,4.3745727 0.423931,4.5102379 -0.883744,0.1392907 -0.926773,-4.0346151 -1.782354,-4.2961254 -0.833311,-0.2547037 -3.146155,3.2998454 -3.694015,2.6222537 -0.562502,-0.69569968 3.030692,-2.8199166 2.829377,-3.6916264 -0.196076,-0.8490205 -4.430828,-1.0747273 -4.117946,-1.8879841 0.321243,-0.8349904 3.957465,1.2146984 4.61173,0.604499 0.637236,-0.5943169 -1.284672,-4.3745727 -0.42393,-4.5102379 0.883744,-0.1392907 0.926773,4.034615 1.782353,4.2961254 0.833312,0.2547037 3.146155,-3.2998454 3.694016,-2.6222537 0.562501,0.6956997 -3.030693,2.8199166 -2.829377,3.6916264 0.196076,0.8490205 4.430827,1.0747272 4.117946,1.88798411 z"
+           transform="rotate(9.8785241,-35.857793,-97.761589)" />
       </g>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(0.19045343,-0.13229112)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#005bbb;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:1"
+       x="22.322075"
+       y="15.733889"
+       id="text1-5"><tspan
+         sodipodi:role="line"
+         id="tspan1-3"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Bold Italic';letter-spacing:0px;fill:#005bbb;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:1"
+         x="22.322075"
+         y="15.733889"
+         rotate="0 0 0 0 0 0"
+         dy="0"
+         dx="0">SPEBT</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#ffc72c;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:1"
+       id="path3-5"
+       inkscape:flatsided="false"
+       sodipodi:sides="6"
+       sodipodi:cx="22.328213"
+       sodipodi:cy="-2.5887597"
+       sodipodi:r1="5.7264705"
+       sodipodi:r2="1.3751936"
+       sodipodi:arg1="0.29663544"
+       sodipodi:arg2="0.89086531"
+       inkscape:rounded="0.1923499"
+       inkscape:randomized="0"
+       d="m 27.804582,-0.91488799 c -0.321243,0.83499038 -3.957466,-1.21469841 -4.611731,-0.60449901 -0.637235,0.59431686 1.284673,4.3745727 0.423931,4.5102379 -0.883744,0.1392907 -0.926773,-4.0346151 -1.782354,-4.2961254 -0.833311,-0.2547037 -3.146155,3.2998454 -3.694015,2.6222537 -0.562502,-0.69569968 3.030692,-2.8199166 2.829377,-3.6916264 -0.196076,-0.8490205 -4.430828,-1.0747273 -4.117946,-1.8879841 0.321243,-0.8349904 3.957465,1.2146984 4.61173,0.604499 0.637236,-0.5943169 -1.284672,-4.3745727 -0.42393,-4.5102379 0.883744,-0.1392907 0.926773,4.034615 1.782353,4.2961254 0.833312,0.2547037 3.146155,-3.2998454 3.694016,-2.6222537 0.562501,0.6956997 -3.030693,2.8199166 -2.829377,3.6916264 0.196076,0.8490205 4.430827,1.0747272 4.117946,1.88798411 z"
+       transform="rotate(9.8785241,-37.748716,-98.204599)" />
   </g>
 </svg>

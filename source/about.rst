@@ -1,6 +1,13 @@
+:sd_hide_title:
+
 ================
 About
 ================
+
+.. article-info::
+    :date: Sept 19, 2024
+    :read-time: 10 min read
+    :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 
 Documentation Generation
 ========================
@@ -17,6 +24,11 @@ required Python packages:
 
 Develop the site locally
 ------------------------
+.. tip::
+
+   * For easy management of the *Python* packages, it is recommended to use a virtual environment. 
+   * I recommand using ``conda`` and *Miniconda* should be sufficient for this purpose.
+   * Check out the `Miniconda documentation <https://docs.anaconda.com/miniconda/>`_ for more information. 
 
 #. Install the required Python packages:
 
@@ -50,13 +62,7 @@ Deploy to GitHub page
 * Use ``git`` to commit your tested changes and push to the remote repository. 
 * GitHub Actions will take over the rest.
 
-Contact information
-===================
+Contributors
+============
 
-* Name: Fang Han
-
-* Emails: 
-
-    * fanghan@buffalo.edu
-
-    * fhan904@gmail.com
+`SPEBT GitHub Porject Contributors <pages/contributors.html>`_

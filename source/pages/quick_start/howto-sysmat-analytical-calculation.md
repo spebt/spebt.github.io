@@ -1,6 +1,12 @@
 # How to analytically calculate the system response matrix
 
-Author: Jiahao Bao, Fang Han
+```{article-info}
+:author: Jiahao Bao, Fang Han
+:date: Sept 19, 2024
+:read-time: 30 min ~ 1 hour
+:class-container: sd-p-1 sd-outline-muted sd-rounded-1
+```
+
 
 Here is how to start your jouney in SPEBT project. I'll offer you a step by step instruction on how to understand and use our python codes. [SPEBT](https://github.com/spebt) is our github website, and [spbet.github.io](https://spebt.github.io) is our project website.
 

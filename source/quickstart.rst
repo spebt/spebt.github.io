@@ -1,12 +1,13 @@
 ===========
 Quick Start
 ===========
-:Author: `Fang Han <mailto:fhan0904@gmail.com>`_
-:Date: 2024-09-17
 
 .. toctree::
    :maxdepth: 1
-   :caption: Guides
+   :caption: Quick Start Guides
 
-   docs/quick_start/howto-ccr-cluster.md
-   docs/quick_start/howto-sysmat-analytical-calculation.md
+   pages/quick_start/howto-use-github.md
+   pages/quick_start/howto-ccr-cluster.md
+   pages/quick_start/howto-ccr-setup-python.md
+   pages/quick_start/howto-sysmat-analytical-calculation.md
+   pages/quick_start/howto-gate2sysmat.md

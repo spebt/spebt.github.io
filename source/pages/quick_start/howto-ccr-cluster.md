@@ -1,6 +1,11 @@
-# How to use ccr cluster
+# How to use the UB CCR HPC cluster
 
-date: 2024/07/30
+```{article-info}
+:author: Fang Han
+:date: Sept 19, 2024
+:read-time: 30 min read
+:class-container: sd-p-1 sd-outline-muted sd-rounded-1
+```
 
 ##  Get UB CCR account
 

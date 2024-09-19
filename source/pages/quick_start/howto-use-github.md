@@ -1,9 +1,18 @@
----
-layout: default
-title: How to use GitHub
-# permalink: /get-started/howto-use-github/
-date: 2024/07/30
----
+# How to start with GitHub
+
+```{article-info}
+:author: Fang Han
+:date: Sept 19, 2024
+:read-time: 5 min read
+:class-container: sd-p-1 sd-outline-muted sd-rounded-1
+```
+
+:::{tip}
+- You can start from [this online article](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)
+- [The official documentation of GitHub](https://docs.github.com/en) should have everything you need to use GitHub. 
+
+:::
+
 ##  Get the code from GitHub repositories
 
 Our codes are served on the GitHub for easy version control and maintainance.
