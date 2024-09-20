@@ -10,7 +10,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: read
+      id-token: write
+      pages: write
     concurrency:
         group: ${{ github.workflow }}-${{ github.ref }}
 
