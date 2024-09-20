@@ -23,29 +23,34 @@ SPEBT Project Documentation
 .. dropdown:: Introduction
   :open:
 
-  | The SPEBT project aims at the design, evaluation and optimization of new Single Photon Emission Tomography System. 
-  | The analytical modelling and Monte Carlo simulation rely heavily on the use of the `High Performace Computer (HPC) compute cluster <https://docs.ccr.buffalo.edu/en/latest/hpc/clusters/#ub-hpc-compute-cluster>`_ at the State University of New York (SUNY) at Buffalo.
+  | The SPEBT project aims at the design, evaluation and optimization of new Single Photon Emission Tomography System.
 
 .. grid:: 1
 
     .. grid-item::
       :margin: 2
 
-.. grid:: 2
+.. grid:: 4
+    :class-row: sd-d-flex-row, sd-align-major-center
 
-    .. grid-item-card:: 
+    .. grid-item-card:: Quick Start 
       :link: quickstart.html
-      :class-card: sd-border-3, sd-bg-white, sd-text-primary, sd-shadow-sm
-      :class-body: sd-text-center, sd-fs-1, sd-d-flex-column, sd-align-major-center, sd-font-weight-bolder
+      :class-card: sd-rounded-3, sd-shadow-sm
+      :class-body: sd-text-center
 
-      Quick Start
+      :material-twotone:`rocket_launch;3em;sd-text-info`
 
-    .. grid-item-card:: 
-      :link: module.html
-      :class-card: sd-border-3, sd-bg-white, sd-text-primary, sd-shadow-sm
-      :class-body: sd-text-center, sd-fs-1, sd-d-flex-column, sd-align-major-center, sd-font-weight-bolder
 
-      Modules
+    .. grid-item-card:: Modules
+      :link: modules.html
+      :class-card: sd-rounded-3, sd-shadow-sm
+      :class-body: sd-text-center
+
+      :material-twotone:`extension;3em;sd-text-info`
+      
+      
+
+      
 
 Useful Links:
 =============

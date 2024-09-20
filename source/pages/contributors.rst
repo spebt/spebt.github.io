@@ -9,11 +9,18 @@ Contributors
     :date: Sept 19, 2024
     :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 
+Project Administrators
+======================
+
+.. csv-table:: Project Administrators
+    :header: "Role", "First Name", "Last Name", "Email", "Affiliation"
+    :file: ../_static/csv/admin_contrib.csv
+
 Coding Contributors
 ===================
 
 .. csv-table:: Coding Contributors
-    :header: "Role", "First Name","Last Name", "Email", "Affiliation"
+    :header: "Role", "First Name", "Last Name", "Email", "Affiliation"
     :file: ../_static/csv/coding_contrib.csv
 
 Documentation Contributors
