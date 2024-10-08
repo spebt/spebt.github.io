@@ -16,7 +16,7 @@ myst_parser
 
 > [!TIP]
 > For easy management of the *Python* packages, it is recommended to use a virtual environment. 
-> I recommand using `conda` and *Miniconda* should be sufficient for this purpose. 
+> I recommend using `conda` and *Miniconda* should be sufficient for this purpose. 
 > Check out the [Miniconda
 documentation](https://docs.anaconda.com/miniconda/) for more
 information.
